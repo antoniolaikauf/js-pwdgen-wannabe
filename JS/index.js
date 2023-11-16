@@ -1,4 +1,4 @@
-// chiedere dati all'utente
+//  dati all'utente per creare la password
 let nome =prompt("scrivi il tuo nome");
 
 let cognome =prompt("scrivi il tuo cognome")
