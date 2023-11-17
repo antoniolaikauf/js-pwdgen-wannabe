@@ -5,7 +5,7 @@ let cognome =prompt("scrivi il tuo cognome")
 
 let colore = prompt("scrivi il tuo coloro preferito");
 // variabile da aggiungere alla password 
-let numero = 23;
+let numero = "23";
 // completamento dalla password e inserimento nella pagina html
 let password = nome + cognome + colore + numero;
 
